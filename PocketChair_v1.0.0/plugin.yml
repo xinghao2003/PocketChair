@@ -1,0 +1,12 @@
+﻿name: PocketChair
+main: PocketChair\PocketChair
+version: 1.0.0
+api: [1.0.0]
+
+
+
+load: STARTUP
+
+
+ 
+ 
